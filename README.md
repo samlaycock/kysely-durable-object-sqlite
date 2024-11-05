@@ -1,4 +1,4 @@
-# Kysely Migrator Local
+# Kysely Durable Object Sqlite
 
 A [Kysely](https://kysely.dev/) dialect for Cloudflare Durable Objects
 [Sqlite Storage](https://developers.cloudflare.com/durable-objects/api/storage-api/#sqlexec).
