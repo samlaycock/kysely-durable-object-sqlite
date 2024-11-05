@@ -5,7 +5,7 @@ A [Kysely](https://kysely.dev/) dialect for Cloudflare Durable Objects
 
 ## Install
 
-`npm i kysely kysely-durable-objects-sqlite`
+`npm i kysely kysely-durable-object-sqlite`
 
 ## Usage
 
